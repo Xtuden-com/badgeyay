@@ -31,7 +31,7 @@ honcho==1.0.1
 idna==2.6
 itsdangerous==0.24
 Jinja2==2.10
-lxml==4.2.1
+lxml==4.9.1
 Mako==1.0.7
 MarkupSafe==1.0
 msgpack-python==0.5.6
@@ -53,7 +53,7 @@ rsa==3.4.2
 six==1.11.0
 SQLAlchemy==1.2.7
 tinycss2==0.6.1
-urllib3==1.24.2
+urllib3==1.26.5
 webencodings==0.5.1
 Werkzeug==0.15.3
 marshmallow-jsonapi==0.20.0
