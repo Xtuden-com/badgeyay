@@ -1,4 +1,4 @@
-FROM python:3-slim
+FROM python:3.13.0b1-slim
 LABEL maintainer="Yash Ladha <yashladhapankajladha123@gmail.com>"
 
 ENV INSTALL_PATH /badgeyay/api
