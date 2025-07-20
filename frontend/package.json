@@ -65,17 +65,17 @@
   "dependencies": {
     "@bower_components/pace": "HubSpot/pace",
     "async": "^2.6.1",
-    "babel-eslint": "^8.2.6",
+    "babel-eslint": "^10.1.0",
     "bootstrap-slider": "~6.0.6",
     "croppie": "^2.6.4",
     "ember": "^1.0.3",
     "ember-colpick": "^1.0.0",
     "ember-suave": "^4.0.1",
-    "eslint": "^4.19.1",
+    "eslint": "^9.0.0",
     "eslint-plugin-ember-suave": "^1.0.0",
     "jquery-colpick": "^3.1.0",
     "md5": "^2.2.1",
     "minimatch": "^3.0.4",
-    "node-sass": "^4.9.2"
+    "node-sass": "^9.0.0"
   }
 }
